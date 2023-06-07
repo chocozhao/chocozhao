@@ -32,7 +32,7 @@
 | ---- | ---- | -->
 
 
-##### Some repo: 
+<!-- ##### Some repo: 
 - [dev-boy](https://github.com/wangrongding/dev-boy)：🛠️An awesome terminal cli toolkit.(小而美的 cli 工具包)🧰  [![](https://img.shields.io/github/stars/wangrongding/dev-boy)](https://github.com/wangrongding/dev-boy)     [![](https://img.shields.io/npm/dt/dev-boy?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/dev-boy)
 - [ding-trans](https://github.com/wangrongding/ding-trans)：🌈一个在终端上翻译的工具，支持有道翻译和 DeepL 翻译。  [![](https://img.shields.io/github/stars/wangrongding/ding-trans)](https://github.com/wangrongding/ding-trans)     [![](https://img.shields.io/npm/dt/ding-trans?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/ding-trans)
 - [prm-cli](https://github.com/wangrongding/prm-cli)：🦄快速切换包管理工具的镜像源  [![](https://img.shields.io/github/stars/wangrongding/prm-cli)](https://github.com/wangrongding/prm-cli)     [![](https://img.shields.io/npm/dt/prm-cli?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/prm-cli)
@@ -41,3 +41,4 @@
 - [folder-print](https://github.com/wangrongding/folder-print)：🌿一个用于打印当前目录树形结构的终端命令行工具。  [![](https://img.shields.io/github/stars/wangrongding/folder-print)](https://github.com/wangrongding/folder-print)     [![](https://img.shields.io/npm/dt/folder-print?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/folder-print)
 - [github-university](https://github.com/wangrongding/github-university)：📚 汇总 github 中优质的学习资源，好用的工具，有趣的项目...  [![](https://img.shields.io/github/stars/wangrongding/github-university)](https://github.com/wangrongding/github-university) 
 - [fanyi](https://github.com/wangrongding/fanyi)：VS Code 划词翻译插件  [![](https://img.shields.io/github/stars/wangrongding/fanyi)](https://github.com/wangrongding/fanyi)     [![](https://badgen.net/vs-marketplace/i/wangrongding.fanyi)](https://marketplace.visualstudio.com/items?itemName=wangrongding.fanyi)
+ -->
